@@ -1,12 +1,12 @@
-#_Daily Coding Challenge Key_
+# _Daily Coding Challenge Key_
 
-###Challenge 1
+### Challenge 1
 Company = Google
 Initial-solution = Yes
 Advanced-solution = No
 JS-skils: .map, includes()
 
-###Challenge 2
+### Challenge 2
 Company = Uber
 Initial-solution = Yes
 Advanced-solution = No
